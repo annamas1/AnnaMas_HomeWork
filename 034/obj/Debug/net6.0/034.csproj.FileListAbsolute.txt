@@ -1,0 +1,15 @@
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\bin\Debug\net6.0\034.exe
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\bin\Debug\net6.0\034.deps.json
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\bin\Debug\net6.0\034.runtimeconfig.json
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\bin\Debug\net6.0\034.dll
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\bin\Debug\net6.0\034.pdb
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.csproj.AssemblyReference.cache
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.AssemblyInfoInputs.cache
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.AssemblyInfo.cs
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.csproj.CoreCompileInputs.cache
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.dll
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\refint\034.dll
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.pdb
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\034.genruntimeconfig.cache
+E:\Downloads\GeekBrains\Seminar1_C#_AnnaMas_HW\034\obj\Debug\net6.0\ref\034.dll
