@@ -11,13 +11,17 @@ if (dayOfWeek == 5) System.Console.WriteLine("Friday");
 if (dayOfWeek == 6) System.Console.WriteLine("Saturday");
 if (dayOfWeek == 7) System.Console.WriteLine("Sunday");
 
-int b=Convert.ToInt32(Console.ReadLine());
-bool b==6 || b==7;
+bool b=(dayOfWeek== 6);
+bool c=(dayOfWeek== 7);
 if (b)
+{
+    System.Console.WriteLine("This is - Weekend!");
+}
+if (c)
 {
     System.Console.WriteLine("This is - Weekend!");
 }
 else
 {
-    System.Console.WriteLine("Workday");
-}  
+    System.Console.WriteLine("Workday :'(");
+}
