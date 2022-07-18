@@ -12,5 +12,5 @@ int AreaN(double x, double y)
     return 0;
 }
 
-int x=-40,y=0;
+int x=-23,y=57;
 System.Console.WriteLine(AreaN(x,y));
