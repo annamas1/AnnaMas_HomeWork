@@ -1,11 +1,14 @@
 ﻿// 22.	Программа проверяет пятизначное число на палиндромом.
 
 
-int N=30203;
-int k=0;
-while(N!=0)
+int length=30203;
+int lenth = myString.Length;
+
+
+for (int i = 0; i < length / 2; i++)
 {
-    k++;
-    N/=10;
+    if (myString[i] != myString[length - i - 1])
+        return false;
 }
-System.Console.WriteLine(k);
+return true;
+System.Console.WriteLine(myString.Length());
