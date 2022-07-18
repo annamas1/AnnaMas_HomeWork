@@ -1,12 +1,7 @@
 ﻿// 4.	По заданному с клавиатуры номеру дня недели вывести его название.
 
 int dayOfWeek; 
-dayOfWeek = int.Parse(System.Console.RedLine());
-dayOfWeek = Convert.ToInt32(System.Console.RedLine());
-
-if (dayOfWeek == 1) System.Console.WriteLine("Monday");
-if (dayOfWeek == 2) System.Console.WriteLine("Tuesday");
-
+dayOfWeek=Convert.ToInt32(Console.ReadLine());
 switch(dayOfWeek)
 {
     case 1:
@@ -18,23 +13,17 @@ switch(dayOfWeek)
     case 3:
         System.Console.WriteLine("Wednesday");
         break;
-    case 4;
-        System.Console.WriteLine("Monday");
+    case 4:
+        System.Console.WriteLine("Thursday");
         break;
-}
-
-
-
-switch(dayOfWeek)
-{
-    case 1:
-        System.Console.WriteLine("Monday");
+    case 5:
+        System.Console.WriteLine("Friday");
         break;
-    case 2:
-        System.Console.WriteLine("Tuesday");
+    case 6:
+        System.Console.WriteLine("Saturday");
         break;
-    case 3:
-        System.Console.WriteLine("Wednesday");
+    case 7:
+        System.Console.WriteLine("Sanday");
         break;
     default:
         System.Console.WriteLine("Wrong!");
