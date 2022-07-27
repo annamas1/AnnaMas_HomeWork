@@ -6,6 +6,6 @@ int r=2;
 while(i<=N)
 {
     System.Console.WriteLine($"{i}^2 = {i*r}");
-    i=i+1;
+    i=i+1;    
 }
-
+//не сообразила как сделать чтобы 1^2 = 1    :)
