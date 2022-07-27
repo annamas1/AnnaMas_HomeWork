@@ -2,10 +2,8 @@
 
 int i=1;
 int N=10;
-int r=2;
 while(i<=N)
 {
-    System.Console.WriteLine($"{i}^2 = {i*r}");
+    System.Console.WriteLine($"{i}^2 = {i*i}");
     i=i+1;    
 }
-//не сообразила как сделать чтобы 1^2 = 1    :)
