@@ -1,14 +1,20 @@
 ﻿// 22.	Программа проверяет пятизначное число на палиндромом.
 
-
-int length=30203;
-int lenth = myString.Length;
-
-
-for (int i = 0; i < length / 2; i++)
+int a = 31413;
+int[] array = {a};
+int find = 31413;
+int index = 0;
+while(index<a)
 {
-    if (myString[i] != myString[length - i - 1])
-        return false;
+    if(array[index] == find)
+    {
+        System.Console.WriteLine("это палиндром");
+        break;
+    }
+    index++;
+    if(array[index] == find)
+    {
+        System.Console.WriteLine("это НЕ палиндром");
+        break;
+    }
 }
-return true;
-System.Console.WriteLine(myString.Length());
