@@ -1,8 +1,14 @@
 ﻿// 29.	Подсчитать сумму цифр в числе
 
-int i=124;
-int[] array = {i};
-int sum = array[0]+array[1]+array[2];
-System.Console.Write($"сумма чисел = {sum} ");
 
+int[] array = {123};
+int b=array.Length;
+int sum=0;
+
+for(int i=0;i<array.Length;i=b)
+    sum=array[i];
+    
+System.Console.WriteLine(sum);
+
+System.Console.WriteLine($"сумма чисел ={b}");
 
