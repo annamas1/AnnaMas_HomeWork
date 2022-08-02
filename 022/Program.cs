@@ -16,7 +16,7 @@ while(index<n)
 }
 while(index>n)
 {
-    if(array[index] == find)
+    if(array[index] != find)
     {
         System.Console.WriteLine("это НЕ палиндром");
         break;
