@@ -1,25 +1,22 @@
 ﻿// 22.	Программа проверяет пятизначное число на палиндромом.
 
-int a=21312;
-int[] array = {a};
-int n = array.Length;
-int index = 0;
-int find = a;
-while(index<n)
-{
-    if(array[index] == find)
+
+int []a;
+a=new int[21312];
+a[0]=2;
+a[1]=1;
+a[2]=3;
+a[3]=1;
+a[4]=2;
+
+if(a[0] == a[4])
     {
+        if(a[1]==a[3])
         System.Console.WriteLine("это палиндром");
-        break;
+        return;
     }
-    index++;
-}
-while(index>n)
-{
-    if(array[index] != find)
+if(a[0] != a[4])
     {
         System.Console.WriteLine("это НЕ палиндром");
-        break;
+        
     }
-    index++;
-}
