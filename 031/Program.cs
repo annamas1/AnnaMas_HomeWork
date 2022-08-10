@@ -2,15 +2,17 @@
 
 int i=1;
 int N=10;
-
 while(i<=N)
 {
-    if(i/2 == 2)
+    while(i<=N)
     {
-        System.Console.WriteLine($"{i}^3 = {i*i*i}");
+    System.Console.WriteLine($"{i}^3 = {i*i*i}");
+    i=i+1;    
     }
-    i=i+1;
+
 }
+if(i/i==0) System.Console.WriteLine($"{i}^3 = {i*i*i}");
+i=i+1;
 
 
 
